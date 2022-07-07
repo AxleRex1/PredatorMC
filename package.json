@@ -11,6 +11,6 @@
   "dependencies": {
     "discord.js": "^11.5.1",
     "git": "^0.1.5",
-    "moment": "^2.24.0"
+    "moment": "^2.29.4"
   }
 }
